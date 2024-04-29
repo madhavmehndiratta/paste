@@ -1,6 +1,9 @@
 # Paste (A PasteBin App)
 A simple pastebin application built with Next.js where users can create and share text snippets with unique, shareable links.
 
+![image](https://github.com/madhavmehndiratta/paste/assets/43489174/8df6d30f-cc13-4c5b-95f9-df26d2cf77a1)
+
+
 ## Installation
 To run this project locally, follow these steps:
 
